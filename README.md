@@ -1,7 +1,7 @@
 # DanieleGomesFarias-
-- 👋 Olá, eu sou @DanieleGomesFarias
-      🐶 Sou mãe de pet
-      🏋️‍♀️ Formada em educação física
+- 👋 Olá, eu sou @DanieleGomesFarias b
+     - 🐶 Sou mãe de pet
+     - 🏋️‍♀️ Formada em educação física
 - 👀 Meu interesse é aprender sobre tecnologia e ingressar na área tech.
 Estou estudando tecnologia através do projeto Elas Na Tech() e buscando conhecimento nessa nova área. Estou em processo de transição de carreira e ficando cada dia mais encantada com todas essas possibilidades do mundo tecnológico.
 
